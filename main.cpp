@@ -7,7 +7,8 @@
 #define RST_PIN         10        
 #define SS_1_PIN        21       
 
-const int wificount = 4;
+// Removed the info for this section
+const int wificount = ; // number of different networks you want to have it connect to
 const char* ssid[wificount] = {}; // manual entries of wireless network SSIDs
 const char* password[wificount] = {}; // manual entries of wireless network passphrases
 
@@ -231,3 +232,4 @@ void connectwifi(void) {
     }
 
 }
+
