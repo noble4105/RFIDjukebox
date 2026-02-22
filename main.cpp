@@ -8,8 +8,8 @@
 #define SS_1_PIN        21       
 
 const int wificount = 4;
-const char* ssid[wificount] = {"OAK_Div001", "2.4ext", "Wells Wifi 2", "Joe Booty"};
-const char* password[wificount] = {"Avon@1320", "Wifi1234", "DDTC1964", "dirtylittleslut"}; 
+const char* ssid[wificount] = {}; // manual entries of wireless network SSIDs
+const char* password[wificount] = {}; // manual entries of wireless network passphrases
 
 typedef struct { //Database struct for the different songs and their respective titles and tag IDs
   char tag[32];
@@ -229,4 +229,5 @@ void connectwifi(void) {
       digitalWrite(led, HIGH);
       Serial.println("Couldn't connect to a network... ;-;");
     }
+
 }
