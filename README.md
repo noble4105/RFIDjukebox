@@ -10,6 +10,9 @@ by the reader. It stops playback when the tag is removed.
 The project in it's entirety (3D modeling, painting, testing etc.) took a few months,
 but the software development took around 15-20 hours alongside my schoolwork. 
 
+A few videos I took of progress along the way
+https://drive.google.com/drive/folders/1jWJYZwJ6FGQKRRex7SOAWJSAthzOZfLI?usp=sharing
+
 Early stages of circuit
 ![PXL_20250519_141555067](https://github.com/user-attachments/assets/e186d4d4-8272-4a3d-87ff-33a21b723ea9)
 
@@ -28,5 +31,4 @@ Late stages of painting
 Finally put together
 ![PXL_20250705_032122959](https://github.com/user-attachments/assets/bf0db444-6aad-4ed4-a232-f63a26b42ffb)
 
-A few videos I took of progress along the way
-https://drive.google.com/drive/folders/1jWJYZwJ6FGQKRRex7SOAWJSAthzOZfLI?usp=sharing
+
